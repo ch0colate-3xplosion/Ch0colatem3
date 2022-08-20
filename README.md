@@ -4,9 +4,9 @@ Ch0colatem3 was created for OSCP and is meant to automate the active and passive
 
 ## To Do List OSCP Script
 - Add nmap
-- Add Ferox 
+- Add feroxbuster
 - Add GoBuster
-- Add dirbuster
+- Add dirsearch
 - Add whois
 - Add dirb
 - Add nikto
@@ -17,6 +17,8 @@ Ch0colatem3 was created for OSCP and is meant to automate the active and passive
 - Add whatweb
 - Add sublist3r
 - Add ffuf
+- Add autorecon
+- Add amass 
 
 
 ## To Do List Penetration Testing
@@ -25,3 +27,11 @@ Ch0colatem3 was created for OSCP and is meant to automate the active and passive
 - Add sherlock
 - Add sslscan
 - Add maltego
+- Add check sp1 and mx record
+- Add emailharvester
+- Add assetfinder 
+- Add altdns
+- Add braa
+- Add cmseek
+- Scraping DNSDumpster
+- Scraping 
