@@ -1,6 +1,6 @@
 # Automated Active and Passive Information Gathering Script
 
-### This script was created for OSCP and is meant to automate the active and passive information gathering of network devices. This script will be updated for actual engagements and a seperate directory will be created for actual penetration testing engagements. 
+Ch0colatem3 was created for OSCP and is meant to automate the active and passive information gathering of network devices. This script will also feature a non-OSCP version for actual engagements.
 
 ## To Do List OSCP Script
 - Add nmap
@@ -24,4 +24,4 @@
 - Add wfuzz
 - Add sherlock
 - Add sslscan
-
+- Add maltego
