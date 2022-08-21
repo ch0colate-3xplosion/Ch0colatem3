@@ -34,4 +34,10 @@ Ch0colatem3 was created for OSCP and is meant to automate the active and passive
 - Add braa
 - Add cmseek
 - Scraping DNSDumpster
+- Scraping Shodan
 - Scraping 
+
+## Features To Add
+- Work on pivoting
+- create as a tool
+- create man page
